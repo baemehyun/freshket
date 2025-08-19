@@ -32,6 +32,6 @@ It can calculate the total price of an order with support for bundle discounts a
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/baemehyun/freshket.git
+cd freshket
 npm install
